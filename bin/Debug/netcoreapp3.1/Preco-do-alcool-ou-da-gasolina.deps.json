@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Preco-do-alcool-ou-da-gasolina/1.0.0": {
+        "runtime": {
+          "Preco-do-alcool-ou-da-gasolina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Preco-do-alcool-ou-da-gasolina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

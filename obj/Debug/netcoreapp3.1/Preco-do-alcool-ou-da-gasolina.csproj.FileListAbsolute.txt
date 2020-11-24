@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\bin\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Preco-do-alcool-ou-da-gasolina\obj\Debug\netcoreapp3.1\Preco-do-alcool-ou-da-gasolina.genruntimeconfig.cache
